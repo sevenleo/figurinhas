@@ -1,4 +1,4 @@
-# Figurinhas para WhatsApp
+# Figurinhas para redes sociais
 
 Acesse a galeria, edite e publique as figurinhas em:
 
