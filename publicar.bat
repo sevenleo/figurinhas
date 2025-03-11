@@ -9,5 +9,6 @@ git push
 
 echo Commit realizado com a mensagem: "%datetxt%"
 cls
+
 if %errorlevel% == 0 (echo "Publicado com sucesso!") else (echo "Erro ao publicar!" && exit /b %errorlevel%)
 pause
